@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/imbad321/QuranSearch_Frontend/static/css/main.17333db7.css",
-    "main.js": "/imbad321/QuranSearch_Frontend/static/js/main.1168714b.js",
-    "static/js/453.8ab44547.chunk.js": "/imbad321/QuranSearch_Frontend/static/js/453.8ab44547.chunk.js",
-    "index.html": "/imbad321/QuranSearch_Frontend/index.html",
-    "main.17333db7.css.map": "/imbad321/QuranSearch_Frontend/static/css/main.17333db7.css.map",
-    "main.1168714b.js.map": "/imbad321/QuranSearch_Frontend/static/js/main.1168714b.js.map",
-    "453.8ab44547.chunk.js.map": "/imbad321/QuranSearch_Frontend/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/QuranSearch_Frontend/static/css/main.17333db7.css",
+    "main.js": "/QuranSearch_Frontend/static/js/main.797a70f8.js",
+    "static/js/453.8ab44547.chunk.js": "/QuranSearch_Frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/QuranSearch_Frontend/index.html",
+    "main.17333db7.css.map": "/QuranSearch_Frontend/static/css/main.17333db7.css.map",
+    "main.797a70f8.js.map": "/QuranSearch_Frontend/static/js/main.797a70f8.js.map",
+    "453.8ab44547.chunk.js.map": "/QuranSearch_Frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17333db7.css",
-    "static/js/main.1168714b.js"
+    "static/js/main.797a70f8.js"
   ]
 }
